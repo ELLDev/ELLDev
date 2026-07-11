@@ -9,8 +9,6 @@
 
 - 💻 Desenvolvo aplicações web com **React, Next.js e TypeScript**
 - 📱 Crio apps multiplataforma (Android e iOS) com **React Native e Expo**
-- ⚙️ No back-end, construo APIs com **Node.js** — REST com Express e **GraphQL** com Apollo Server
-- 📈 Aprendizado contínuo: meus repositórios refletem estudos e projetos práticos, do front ao back
 
 ## 🛠️ Tecnologias
 
@@ -41,39 +39,3 @@
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
-
-## 🚀 Projetos em destaque
-
-| Projeto | Descrição | Stack |
-| --- | --- | --- |
-| [Rick and Morty — Catálogo web](https://github.com/ELLDev/rick-and-morty-nextjs-catalog) | Catálogo interativo de personagens, com busca por nome e paginação | Next.js · TypeScript · Tailwind CSS |
-| [Rick and Morty — App mobile](https://github.com/ELLDev/rick-morty-react-native) | Versão mobile do catálogo, com navegação por abas e cache de dados | React Native · Expo · React Query |
-| [Food Explorer API](https://github.com/ELLDev/food-explorer-api) | API GraphQL de um cardápio de restaurante | Node.js · Apollo Server · TypeScript |
-
-## 📊 Estatísticas
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ELLDev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br&theme=github_dark">
-    <img height="180" alt="Estatísticas do GitHub de ELLDev" src="https://github-readme-stats.vercel.app/api?username=ELLDev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ELLDev&layout=compact&langs_count=8&hide_border=true&locale=pt-br&theme=github_dark">
-    <img height="180" alt="Linguagens mais usadas por ELLDev" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELLDev&layout=compact&langs_count=8&hide_border=true&locale=pt-br">
-  </picture>
-</div>
-
-<!--
-📫 Seção de contato — descomente o bloco abaixo e preencha os links quando quiser exibi-la:
-
-## 📫 Contato
-
-<p>
-  <a href="https://www.linkedin.com/in/SEU-USUARIO/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn">
-  </a>
-  <a href="mailto:seu-email@exemplo.com">
-    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
-  </a>
-</p>
--->
