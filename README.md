@@ -1,41 +1,38 @@
-<h1 align="center">Olá! Eu sou o ELLDev 👋</h1>
+<h1 align="center">Hi, I'm Elliod 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Front-end &amp; Mobile</strong> · Brasil 🇧🇷<br>
-  Construo aplicações web e mobile com o ecossistema React
+  <strong>Front-end &amp; Mobile Engineer</strong> · React Native · Next.js · TypeScript<br>
+  Brazil 🇧🇷 · Remote
 </p>
 
-## 🧑‍💻 Sobre mim
+## About me
 
-- 💻 Desenvolvo aplicações web com **React, Next.js e TypeScript**
-- 📱 Crio apps multiplataforma (Android e iOS) com **React Native e Expo**
+I build consumer and B2B products with the React ecosystem, end to end: from design handoff through implementation, testing, native builds and store releases.
 
-## 🛠️ Tecnologias
+Currently at **[Fluke](https://fluke.com.br)**, a Brazilian mobile carrier, where I work on the React Native consumer app and the Next.js B2B portal used by tens of thousands of subscribers. Recent work includes leading the front end of the SIM self-service launch, which turned the company's largest support-ticket category into an in-app flow, and rebuilding the B2B billing experience with in-app payments.
 
-**Linguagens**
+Before that I built and owned the front end of an e-commerce platform for a Brazilian surfwear brand for over two years, delivering most of the codebase and raising its Lighthouse score from ~30 to 95.
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
-</p>
+## What I work with
 
-**Front-end &amp; Mobile**
+**Mobile** · React Native, Expo, React Navigation, CodePush, Firebase (Auth, Firestore, Analytics), native iOS and Android build and release
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-</p>
+**Web** · Next.js (App Router and Pages), React, TypeScript, Tailwind CSS, styled-components, React Query, Zustand, Redux
 
-**Back-end &amp; Ferramentas**
+**Quality and tooling** · Jest, Vitest, React Testing Library, ESLint, Prettier, GitHub Actions, Mixpanel
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
+**Backend I touch** · Node.js, Express, Next.js route handlers and BFFs, REST, Stripe, Firebase
+
+## Highlights
+
+- **SIM self-service (React Native)** — chip/eSIM swap, replacement orders, delivery tracking and in-app activation, replacing thousands of monthly support conversations with a self-serve flow that the support chatbot deep-links into.
+- **Deep-linking system** — route map for every post-login screen with cold-start, background and deferred navigation handling, plus analytics.
+- **Unified checkout** — one payment-processing flow for card, Pix, automatic Pix and eSIM provisioning.
+- **B2B billing and lines portal (Next.js)** — in-app card and Pix payments replacing an external checkout, invoice history and details, and a redesigned line-management page with server-side pagination.
+- **Codebase health** — removed years of dead code and duplicate dependencies, standardised query caching, added CSP headers, and introduced test coverage and engineering handbooks adopted across repositories.
+
+## Let's talk
+
+- LinkedIn: [linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/YOUR-HANDLE)
+- Email: [elliod.cieza@gmail.com](mailto:elliod.cieza@gmail.com)
+- Portfolio: [portfolio-pessoal-ten.vercel.app](https://portfolio-pessoal-ten.vercel.app)
