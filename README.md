@@ -1,19 +1,19 @@
 <h1 align="center">Hi, I'm Elliod 👋</h1>
 
 <p align="center">
-  <strong>Front-end &amp; Mobile Engineer</strong> · Brazil 🇧🇷 · Remote
+  <strong>Senior Full-Stack Software Engineer</strong> · Brazil 🇧🇷 · Remote
 </p>
 
-I build web and mobile products with React, React Native and Next.js, and take them all the way to production: native builds, store releases, over-the-air updates and the backend-for-frontend routes that sit in between.
+I build web and mobile products end to end: React, Next.js and React Native on the front, Node.js and NestJS services behind them, and the data, events and payment flows that tie it all together in production.
 
 ## What I do
 
-- 📱 Cross-platform mobile apps with **React Native** and **Expo**, including deep linking, payments, push-driven flows and native iOS/Android releases
-- 💻 Web apps and portals with **Next.js**, **TypeScript** and **Tailwind CSS**, from marketing sites to authenticated dashboards
-- 🔌 **Node.js** and Next.js API routes, REST integrations, Firebase and Stripe
-- 🧪 Testing with **Jest** and **Vitest**, code review, and keeping legacy codebases healthy
+- 🔌 Backend services with **Node.js**, **NestJS** and **TypeScript**: REST and GraphQL APIs, Kafka event-driven workflows, card and Pix payments
+- 💻 Web apps and portals with **React**, **Next.js** and **Tailwind CSS**, from marketing sites to B2B dashboards
+- 📱 Mobile apps with **React Native** and **Flutter**, including deep linking, push notifications and store releases
+- 🗄️ **PostgreSQL** and **MySQL** schema design and query tuning, CI/CD with GitHub Actions, AWS and Vercel
+- 🧪 Testing with **Jest**, **Cypress** and **Patrol**, code review, legacy modernization and incident response
 
 ## Let's talk
 
-- LinkedIn: [linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/YOUR-HANDLE)
-- Portfolio: [portfolio-pessoal-ten.vercel.app](https://portfolio-pessoal-ten.vercel.app)
+- LinkedIn: [linkedin.com/in/elliod-cieza](https://www.linkedin.com/in/elliod-cieza/)
